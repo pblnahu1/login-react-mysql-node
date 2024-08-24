@@ -5,26 +5,26 @@
 
 ### Frontend
 
-mkdir login-react-mysql-node
-cd login-react-mysql-node
-npm create vite@latest
-name: frontend
-cd frontend
-npm install
-npm run dev
-npm install axios
+1. `mkdir login-react-mysql-node`
+2. `cd login-react-mysql-node`
+3. `npm create vite@latest`
+4. `name: frontend`
+5. `cd frontend`
+6. `npm install`
+7. `npm run dev`
+8. `npm install axios`
 
 ### Backend
 
-cd login-react-mysql-node
-mkdir backend
-cd backend
-npm init -y
-npm install express
-npm install mysql
-npm install cors
+1. `cd login-react-mysql-node`
+2. `mkdir backend`
+3. `cd backend`
+4. `npm init -y`
+5. `npm install express`
+6. `npm install mysql`
+7. `npm install cors`
 
 ### Para Ejecutar
 
-- Para el Frontend tener en ejecución con `npm run dev`
-- Para el Backend ejecutar `node server.js`
+1. Para el Frontend tener en ejecución con `npm run dev`
+2. Para el Backend ejecutar `node server.js`
